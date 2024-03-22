@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpandableRVNEsted2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="android:statusBarColor">@color/black</item>
+
+    </style>
+    <style name="ShapeAppearanceOverlay.App.Round" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.ExpandableRVNEsted2" parent="Base.Theme.ExpandableRVNEsted2" />
+</resources>
